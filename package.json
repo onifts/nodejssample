@@ -1,0 +1,11 @@
+{
+  "name": "nodejssample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/onifts/nodejssample.git",
+  "author": "caprica <frigatebirdmanager@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fcm-node": "^1.5.2"
+  }
+}
