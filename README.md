@@ -8,6 +8,7 @@
 # BFF (Back-end For Front-end)
 
 # Cluster
+  - nodejs default single thread
   - Thread / Process / Cluster / Instance 
   - Master / Worker 
   - Fork Mode / Cluster Mode 
