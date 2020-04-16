@@ -8,9 +8,7 @@
 # BFF (Back-end For Front-end)
 
 # Cluster
-  - Thread
-  - Process
-  - Cluster
+  - Thread / Process / Cluster / Instance 
   - Master / Worker 
   - Fork Mode / Cluster Mode 
   
