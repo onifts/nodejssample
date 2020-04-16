@@ -11,7 +11,7 @@
   - Thread
   - Process
   - Cluster
-  - Worker 
+  - Master / Worker 
   - Fork Mode / Cluster Mode 
   
 # 무중단 서비스 : pm2
