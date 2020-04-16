@@ -12,5 +12,5 @@
   - Process
   - Cluster
   - Worker 
-  - Fork Mode 
+  - Fork Mode / Cluster Mode 
   
