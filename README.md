@@ -14,3 +14,5 @@
   - Worker 
   - Fork Mode / Cluster Mode 
   
+# 무중단 서비스 : pm2
+  - https://engineering.linecorp.com/ko/blog/pm2-nodejs/
