@@ -1,6 +1,6 @@
 # nodejssample
 
-# import/export/requie
+# import/export/require
 - ES6, CommonJs
 
 # SSR (Server Side Rendering) / CSR (Client Side Rendering)
